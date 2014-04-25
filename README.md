@@ -19,7 +19,7 @@ Performance
 
 State of knowledge
 ------------------
-Although with more than 20k keys/s it takes months or years to crack the passphrase using brute force mechanisms. 
+Although with more than 20,000 keys/s it takes months or years to crack the passphrase using brute force mechanisms. 
 
 
 Links
