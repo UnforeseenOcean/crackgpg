@@ -12,10 +12,10 @@ java jcrunch-0.0.1-shaded.jar -l 1 -h 3 2>&1 | java -jar crackgpg-0.0.1.one-jar.
 
 Performance
 -----------
-On my laptop *nasty* did 500 keys/s
-*crackgpg* did 2,000 keys/s on a single core(!)
-using four cores *crackgpg* did 3,000 keys/s
-and on a 24 core machine using 22 cores *crackgpg* did 20,500 keys/s
+* On my laptop *nasty* did 500 keys/s
+* *crackgpg* did 2,000 keys/s on a single core(!)
+* using four cores *crackgpg* did 3,000 keys/s
+* and on a 24 core machine using 22 cores *crackgpg* did 20,500 keys/s
 
 State of knowledge
 ------------------
