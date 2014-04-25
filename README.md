@@ -24,7 +24,7 @@ Although with more than 20k keys/s it takes months or years to crack the passphr
 
 Links
 -----
-* rephrase [http://www.roguedaemon.net/rephrase/](http://www.roguedaemon.net/rephrase/)
-* nasty [http://www.vanheusden.com/nasty/](http://www.vanheusden.com/nasty/)
-
-http://www.ubuntuvibes.com/2012/10/recover-your-gpg-passphrase-using-john.html / https://github.com/magnumripper/JohnTheRipper
+* rephrase http://www.roguedaemon.net/rephrase/
+* nasty http://www.vanheusden.com/nasty/
+* JohnTheRipper1 http://www.ubuntuvibes.com/2012/10/recover-your-gpg-passphrase-using-john.html 
+* JohnTheRipper2 https://github.com/magnumripper/JohnTheRipper
