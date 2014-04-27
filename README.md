@@ -28,3 +28,5 @@ Links
 * nasty http://www.vanheusden.com/nasty/
 * JohnTheRipper1 http://www.ubuntuvibes.com/2012/10/recover-your-gpg-passphrase-using-john.html 
 * JohnTheRipper2 https://github.com/magnumripper/JohnTheRipper
+
+[![Build Status](https://buildhive.cloudbees.com/job/pfichtner/job/crackgpg/badge/icon)](https://buildhive.cloudbees.com/job/pfichtner/job/crackgpg/)
