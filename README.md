@@ -17,6 +17,13 @@ Performance
 * using four cores *crackgpg* did 3,000 keys/s
 * and on a 24 core machine using 22 cores *crackgpg* did 20,500 keys/s
 
+Download
+--------
+Download latest version from bintray 
+
+[ ![Download](https://api.bintray.com/packages/pfichtner/generic/crackgpg/images/download.png) ](https://bintray.com/pfichtner/generic/crackgpg/_latestVersion) 
+
+
 State of knowledge
 ------------------
 Although with more than 20,000 keys/s it takes months or years to crack the passphrase using brute force mechanisms. 
