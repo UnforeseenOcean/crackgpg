@@ -10,6 +10,34 @@
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 	</properties>
 
+	<developers>
+		<developer>
+			<id>pfichtner</id>
+			<name>Peter Fichtner</name>
+			<roles>
+				<role>Java Developer</role>
+			</roles>
+		</developer>
+	</developers>
+
+	<licenses>
+		<license>
+			<name>The Apache Software License, Version 2.0</name>
+			<url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+		</license>
+	</licenses>
+
+	<scm>
+		<url>https://github.com/pfichtner/crackgpg.git</url>
+		<connection>scm:git:https://github.com/pfichtner/crackgpg.git</connection>
+		<developerConnection>scm:git:https://pfichtner@github.com/pfichtner/crackgpg.git</developerConnection>
+	</scm>
+
+	<ciManagement>
+		<system>jenkins</system>
+		<url>https://buildhive.cloudbees.com/job/pfichtner/job/crackgpg/</url>
+	</ciManagement>
+
 	<build>
 		<plugins>
 			<plugin>
