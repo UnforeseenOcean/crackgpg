@@ -28,3 +28,5 @@ You can download the latest version of [ crackgpg ](https://bintray.com/pfichtne
 * JohnTheRipper1 http://www.ubuntuvibes.com/2012/10/recover-your-gpg-passphrase-using-john.html 
 * JohnTheRipper2 https://github.com/magnumripper/JohnTheRipper
 
+## License
+Copyright 2014 Peter Fichtner - Released under the [Apache 2.0 license](http://www.apache.org/licenses/LICENSE-2.0.html)
