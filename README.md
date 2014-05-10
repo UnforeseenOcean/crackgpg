@@ -21,7 +21,8 @@ java jcrunch-0.0.1-shaded.jar -l 1 -h 3 2>&1 | java -jar crackgpg-0.0.1.one-jar.
 Although with more than 20,000 keys/s it takes months or years to crack the passphrase using brute force mechanisms. 
 
 ## Download
-You can download the latest version of [ crackgpg ](https://bintray.com/pfichtner/generic/crackgpg/_latestVersion) from bintray. 
+You can download the latest version of [ crackgpg ](https://github.com/pfichtner/crackgpg/releases/latest) from github's release page. 
+
 ## Links
 * rephrase http://www.roguedaemon.net/rephrase/
 * nasty http://www.vanheusden.com/nasty/
