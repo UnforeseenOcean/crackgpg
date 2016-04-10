@@ -1,4 +1,4 @@
-# crackgpg [![Build Status](https://buildhive.cloudbees.com/job/pfichtner/job/crackgpg/badge/icon)](https://buildhive.cloudbees.com/job/pfichtner/job/crackgpg/)
+# crackgpg [![Build Status](https://travis-ci.org/pfichtner/crackgpg.svg?branch=master)](https://travis-ci.org/pfichtner/crackgpg)
 
 After I lost the passphrase for my PGP key I searched for tools that could "recover" the lost passphrase. 
 My first attempts were *rephrase* and *nasty*. Because the didn't scale very well (they run one one CPU core only) I started this project.
